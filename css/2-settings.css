@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face{
+    font-family: mainfont;
+    src:url(../font/Yekan.ttf);
+}
+a{
+    text-decoration: none;
+}
+
+::-webkit-scrollbar{
+    width: 9px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: rgba(163, 163, 163, 0.733);
+    border-radius: 15px;   
+}
+
+::-webkit-scrollbar-track{
+    background-color: #ecececbb;
+}

@@ -1,0 +1,139 @@
+h2.p-digikala{
+    padding: 16px 0px;
+    text-align: center;
+    font-size: 22px;
+    word-spacing: 2px;
+    font-weight: lighter;
+    color: #080a38;
+}
+
+div.swiper-third{
+  position: relative;
+  right: calc(50% - 96.655% /2);
+  width: 96.665%;
+  height: 311.20px;
+  margin-top: 8px;
+  border-radius: 16px;
+  border: 1.5px solid #d0d0d3;
+  overflow: hidden;
+  margin-bottom: 24px;
+}
+
+.swiper3 {
+  width: 100%;
+  height: 100%;
+}
+
+div.swiper-third .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-left: 1px solid #f0f0f0;
+}
+
+div.swiper-slide>div.main-div{
+  width: 100%;
+  height: 100%;
+}
+
+div.swiper-slide>div.main-div>a.main-a{
+  display: block;
+  width: 100%;
+  height: 154.10px;
+  background-color: #fff;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+div.swiper-slide>div.main-div>a.main-a>div.images{
+  position: relative;
+  top: 16px;
+  right: calc(50% - 45.371%/2);
+  width:45.371%;
+  height: 84px;
+  border-radius: 50%;
+  background-color: #F1F2F4;
+}
+
+div.swiper-third .swiper-slide img {
+  position: absolute;
+  top: calc(50% - 60px/2);
+  left: calc(50% - 60px/2);
+  width: 60px;
+  height: 60px;
+}
+/*فونت پولی لازمه تا وزن 400 بگیرد*/
+div.swiper-slide>div.main-div>a.main-a>h4{
+  margin-top: 30px;
+  color: #080a38;
+  font-family: mainfont;
+  font-size: 16.5px;
+  font-weight: 500;
+}
+
+div.swiper-for-main{
+  position: relative;
+  right: calc(50% - 96.655% /2);
+  width: 96.665%;
+  height: 224.1px;
+  border-radius: 16px;
+  border: 1px #d0d0d3 solid;
+  padding: 24px 0px;
+  text-align: center;
+  margin-bottom: 24px;
+  background-color: #ffffff;
+}
+
+div.swiper-for-main>div.swiper-for-icon{
+  display: inline-block;
+  margin-left: 5px;
+  vertical-align: text-top;
+}
+
+div.swiper-for-main>p{
+  display: inline-block;
+  font-size: 22px;
+  font-weight: lighter;
+  color: #080a38;
+}
+
+div.swiper-for-main>div.swiper-for{
+  width: 100%;
+  height: 118px;
+  margin-top: 12px;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+div.swiper-for-main>div.swiper-for .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+div.swiper-for-main>div.swiper-for .swiper-slide>a{
+  display: block;
+  width: 99.5%;
+  height: 100%;
+  padding: 4px 16px;
+  border-left: 1px #f0f0f0 solid;
+}
+
+div.swiper-for-main>div.swiper-for .swiper-slide>a>div.img{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+div.swiper-for-main>div.swiper-for .swiper-slide>a>div.img>img{
+  width: 100%;
+  height: 100%;
+}
